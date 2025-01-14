@@ -1,6 +1,6 @@
 import React from 'react'
 import CourseDetails from '../Components/Course components/CourseDetails components/CourseDetails'
-import patisserie from '../assets/patisserie.jpeg'
+import patisserie from '../assets/Patisserie.jpeg'
 
 const DiplomaPastry = () => {
 

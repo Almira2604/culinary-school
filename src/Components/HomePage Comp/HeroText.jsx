@@ -7,7 +7,7 @@ const HeroText = () => {
         <div className='space-y-14'>
             <div className='text-dark-blue space-y-6'>
                 <h1 className='font-extrabold lg:text-8xl text-5xl font-font-play'>
-                    Professional <br className='hidden lg:block'/> Culinary School
+                    Professional <br className='hidden lg:block' /> Culinary School
                 </h1>
                 <p className='text-xl lg:w-1/2 w-full'>
                     Learn Culinary arts from an award winning culinary
